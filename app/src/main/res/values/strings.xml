@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="nombre_de_la_estaci_n">Nombre de la estación</string>
+    <string name="nombre_de_la_empresa">Nombre de la empresa</string>
+    <string name="departamento">Departamento</string>
+    <string name="municipio">Municipio</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
